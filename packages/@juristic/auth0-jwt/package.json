@@ -2,7 +2,7 @@
   "name": "@juristic/auth0-jwt",
   "license": "MIT",
   "author": "Auth0 <support@auth0.com>",
-  "version": "0.0.1-test.2",
+  "version": "0.0.1-test.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
