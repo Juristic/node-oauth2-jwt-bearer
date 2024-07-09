@@ -1,5 +1,6 @@
 {
-  "name": "@juristic/auth0-oauth2-bearer",
+  "name": "oauth2-bearer",
+  "private": true,
   "license": "MIT",
   "author": "Auth0 <support@auth0.com>",
   "version": "0.0.1-test",
